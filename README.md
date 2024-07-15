@@ -6,6 +6,10 @@ In the project directory, you can run the following command:
 
 This command runs the app in development mode. To view it in your browser, navigate to [http://localhost:3000](http://localhost:3000). The page will reload if you make edits, and you will also see any lint errors in the console.
 
+## `npm install`
+
+This command downloads dependencies needed to run the app
+
 ## Future Improvements
 
 The project is open to several enhancements that will improve user experience and functionality. Here are some of the planned updates:

@@ -1,6 +1,6 @@
 ## UI Overview
 
-![UI Screenshot](public/Screenshot 2024-07-15 at 4.10.01 PM.png)
+![UI Screenshot](public/images/ui-screenshot.png)
 
 ## Available Scripts
 

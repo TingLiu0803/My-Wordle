@@ -1,3 +1,7 @@
+## UI Overview
+
+![UI Screenshot](public/Screenshot 2024-07-15 at 4.10.01 PM.png)
+
 ## Available Scripts
 
 In the project directory, you can run the following command:
